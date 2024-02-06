@@ -2,7 +2,7 @@
 "name": "XNODES",
 "website": "https://xnodes.tech",
 "description": "EigenLayer Validator node powered by XNODES",
-"logo": "raw.githubusercontent.com/ksbaskar/EigenLayer/main/xnodes_logo.svg",
+"logo": "https://github.com/ksbaskar/EigenLayer/blob/main/xnodes_logo.svg",
 "twitter": "https://twitter.com/ksbaskar"
 }
 
